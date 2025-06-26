@@ -52,27 +52,15 @@ export const FooterContact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a target="_blank" href={"https://www.youtube.com/@frankiegriviera"}>
+                    <a target="_blank" href={"https://github.com/Hamzaqtr-313"}>
                       {/* <a href={props.data ? props.data.youtube : "/"}> */}
-                      <i className="fa fa-youtube"></i>
+                      <i className="fa fa-github"></i>
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href={"https://www.linkedin.com/in/frankie-riviera/"}>
+                    <a target="_blank" href={"https://www.linkedin.com/in/hamza-sajid-8551a8247/"}>
                       {/* <a href={props.data ? props.data.twitter : "/"}> */}
                       <i className="fa fa-linkedin"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a target="_blank" href={"https://www.instagram.com/frankiegriviera"}>
-                      {/* <a href={props.data ? props.data.twitter : "/"}> */}
-                      <i className="fa fa-instagram"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a target="_blank" href={"https://www.facebook.com/frankie.riviera"}>
-                      {/* <a href={props.data ? props.data.facebook : "/"}> */}
-                      <i className="fa fa-facebook"></i>
                     </a>
                   </li>
                 </ul>
